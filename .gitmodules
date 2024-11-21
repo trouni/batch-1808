@@ -1,3 +1,6 @@
 [submodule "lectures/rails-authentication"]
 	path = lectures/rails-authentication
 	url = git@github.com:trouni/rails-authentication-1808.git
+[submodule "lectures/rails-search"]
+	path = lectures/rails-search
+	url = git@github.com:trouni/rails-search-1808.git
